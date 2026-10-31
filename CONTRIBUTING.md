@@ -1,6 +1,6 @@
 # Contributing
 
-These are personal projects, maintained in my spare time.
+These are personal projects, maintained on a best-effort basis.
 
 ## Issues
 
